@@ -77,7 +77,7 @@
         {
             "id": 14,
             "title": "BELL X SQUID - Z20 MIPS HELMET",
-            "image": "images/Goods/mipshelmet.jpg",
+            "image": "images/products/Goods/mipshelmet.jpg",
             "price": 250,
             "category": "Trending Products"
         },
@@ -176,7 +176,7 @@
         {
             "id": 23,
             "title": "Rattlecan Bottle",
-            "image": "images/products/headphone/rattlecan-bottle.png",
+            "image": "images/products/Goods/rattlecan-bottle.png",
             "price": "SOLD OUT",
             "category": "Featured Products"
         }
