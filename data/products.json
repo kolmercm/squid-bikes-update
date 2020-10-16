@@ -1,0 +1,185 @@
+{
+    "products": [{
+            "id": 6,
+            "title": "SO-EZ",
+            "image": "images/products/Bikes/SO-EZ.png",
+            "price": 666,
+            "category": "Featured Products"
+        },
+
+        {
+            "id": 3,
+            "title": "Squid Basketball Jerseys",
+            "image": "images/products/Goods/jersey.jpg",
+            "price": 50,
+            "category": "Special Products"
+        },
+        {
+            "id": 4,
+            "title": "Mudman",
+            "image": "images/products/Bikes/mudman.png",
+            "price": 1100,
+            "category": "Special Products"
+        },
+        {
+            "id": 8,
+            "title": "SO-EZ Wheelset",
+            "image": "images/products/Goods/SO-EZ-wheelset.jpg",
+            "price": 530,
+            "category": "Featured Products"
+        },
+        {
+            "id": 5,
+            "title": "Handstyle Sattle",
+            "image": "images/products/Goods/handstyle-sattle.jpg",
+            "price": 100,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 7,
+            "title": "Derailleur Hangers",
+            "image": "images/products/Goods/hanger.png",
+            "price": 25,
+            "category": "Featured Products"
+        },
+
+
+        {
+            "id": 10,
+            "title": "Squid Stickers",
+            "image": "images/products/Goods/stickers.jpg",
+            "price": 3,
+            "category": "Special Products"
+        },
+        {
+            "id": 11,
+            "title": "White Industries Bottom Bracket",
+            "image": "images/products/Goods/bottombracket.jpg",
+            "price": 100,
+            "category": "Special Products"
+        },
+        {
+            "id": 13,
+            "title": "Trackwondo",
+            "image": "images/products/Bikes/trackwondo.jpg",
+            "price": 1200,
+            "category": "Trending Products"
+        },
+        {
+            "id": 12,
+            "title": "Squidcross",
+            "image": "images/products/Bikes/squidcross.png",
+            "price": 1800,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 14,
+            "title": "BELL X SQUID - Z20 MIPS HELMET",
+            "image": "images/Goods/mipshelmet.jpg",
+            "price": 250,
+            "category": "Trending Products"
+        },
+        {
+            "id": 9,
+            "title": "Shred to Ed's",
+            "image": "images/products/Bikes/shred-to-eds.jpg",
+            "price": "SOLD OUT",
+            "category": "Special Products"
+        },
+        {
+            "id": 15,
+            "title": "Dickies with a Chamois",
+            "image": "images/products/Goods/dickies.jpg",
+            "price": 80,
+            "category": "Trending Products"
+        },
+        {
+            "id": 16,
+            "title": "Spray Caps",
+            "image": "images/products/Goods/spraycaps.png",
+            "price": "SOLD OUT",
+            "category": "Special Products"
+        },
+        {
+            "id": 17,
+            "title": "T-Ball Jersey",
+            "image": "images/products/Goods/tball-jersey.jpg",
+            "price": 35,
+            "category": "Trending Products"
+        },
+        {
+            "id": 2,
+            "title": "Salariman",
+            "image": "images/products/Bikes/salariman.jpg",
+            "price": "SOLD OUT",
+            "category": "Special Products"
+        },
+        {
+            "id": 18,
+            "title": "Long Sleeve T-Shirt",
+            "image": "images/products/Goods/longsleeve-t.jpg",
+            "price": 25,
+            "category": "Trending Products"
+        },
+        {
+            "id": 20,
+            "title": "IRC Boken Tubeless Tire",
+            "image": "images/products/Goods/tubeless-tire.jpg",
+            "price": 65,
+            "category": "Special Products"
+        },
+        {
+            "id": 19,
+            "title": "Chunz Die-Cut Sticker",
+            "image": "images/products/Goods/chunzsticker.jpg",
+            "price": 2,
+            "category": "Trending Products"
+        },
+        {
+            "id": 1,
+            "title": "FuckOffJohnny",
+            "image": "images/products/Bikes/FuckOffJOhnny.png",
+            "price": 1400,
+            "category": "Special Products"
+        },
+        {
+            "id": 24,
+            "title": "Tensioner Bolts",
+            "image": "images/products/Goods/tensioner-bolts.jpg",
+            "price": 5,
+            "category": "Featured Products"
+        },
+        {
+            "id": 21,
+            "title": "Beer Components Water Bottle",
+            "image": "images/products/Goods/beer-water.jpg",
+            "price": 12,
+            "category": "Trending Products"
+        },
+
+        {
+            "id": 25,
+            "title": " Misfit Metal Head Badges",
+            "image": "images/products/Goods/headbadges.jpg",
+            "price": "SOLD OUT",
+            "category": "Special Products"
+        },
+        {
+            "id": 22,
+            "title": "Sugino Might Comp RD4 Crankset",
+            "image": "images/products/Goods/suginocrankset.jpg",
+            "price": 460,
+            "category": "Trending Products"
+        },
+        {
+            "id": 23,
+            "title": "Rattlecan Bottle",
+            "image": "images/products/headphone/rattlecan-bottle.png",
+            "price": "SOLD OUT",
+            "category": "Featured Products"
+        }
+
+    ]
+}
